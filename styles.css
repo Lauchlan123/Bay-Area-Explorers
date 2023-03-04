@@ -1,3 +1,267 @@
+.china12
+{
+  height: 300px;
+  width: 300px;
+}
+.cafeimg
+{
+  height:600px;
+  width:600px;
+}
 h1 {
-  color: red;
+}
+.gatebody {
+  display:flex;
+}
+.aboutus {
+  display: flex;
+  justify-content: center;
+  font-family: Georgia;
+  border-radius: 10px;
+}
+h1 {
+font-size: 60px;
+  font-family: "Times new Roman", cursive;
+  color: darkblue;
+  text-align: center;
+}
+h2 {
+  font-size: 25px;
+  font-family: "Apple Chancery", cursive;
+  color: #3b6bb8;
+  padding: 15px;
+  border: 4px solid black;
+  background-color: #ebe0e0;
+  border-radius: 10px;
+  text-align: center;
+}
+p {
+   font-size: 25px;
+  font-family: "Apple Chancery", cursive;
+  color: #04028d;
+}
+
+.LocationsContainer1 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.location {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  align-items: center;
+  width: 450px;
+  height: 450px;
+  border: 5px black solid;
+  border-radius: 10px;
+  background-color: lightgrey;
+}
+  .location1img {
+    width: 300px;
+    height: 300px;
+  }
+
+  .location2img {
+  width: 300px;
+  height:300px;
+    display: flex;
+  flex-direction: column;
+  }
+
+
+
+.LocationsContainer2 {
+  display: flex;
+  justify-content: space-around;
+  margin: 15px;
+}
+
+.image3 {
+   width: 300px;
+  height:300px;
+}
+
+.image4 {
+width: 300px;
+  height:300px;
+}
+
+.imagecontainer{
+ 
+}
+
+.mainstuffs {
+  display: flex;
+  justify-content: center;
+  border: 5px black solid;
+  border-radius: 10px;
+  margin: 20px;
+}
+
+.map {
+  font-size: 20px;
+  font-family: "Apple Chancery", cursive;
+  color: darkred;
+  padding: 20px; 
+}
+
+.aboutus {
+  font-size: 20px;
+  font-family: "Apple Chancery", cursive;
+  color: darkred;
+  padding: 20px; 
+}
+.aboutus1{
+  font-size: 75px;
+  color: white;
+  border: 20px dotted #3b6bb8;
+      width: fit-content;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+     
+
+}
+.titleaboutus{
+   display: flex;
+    justify-content: center;
+}
+.imageabout {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 300px;
+  width: 1000px;
+  
+
+}
+.aboutusbody{
+  background-image: none !important;
+  background-color: #415c6d;
+}
+.muirwoodsimg
+{display: flex;
+justify-content:flex-end;
+}
+.muirtext {
+  padding: 10px;
+
+}
+.sectionwrapper {
+  display:flex;
+  
+}
+
+
+
+button {
+  color:cadetblue;
+  background-color:darkslateblue;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size:20 ;
+  padding: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.bettitext {
+  display:flex;
+  background-color:#849ed2;
+}
+.back {
+  color:cadetblue;
+  background-color:darkslateblue;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size:200 ;
+  padding: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 10px;
+}
+
+.person{
+  border: 4px;
+  padding: 10px;
+  
+  
+}
+
+.infoaboutus{
+  border: 4px;
+  padding: 10px;
+}
+.bettitext2
+{
+  padding: 20px;
+}
+.aboutusbody{
+  width: fit-content;
+}
+
+.alcatrazimg1{
+  width:500px;
+  height:500px;
+}
+body {
+  background-image:url("https://i.imgur.com/FInClMV.png");
+ background-size: cover;
+}
+
+.aboutmetext{
+  color: 	#E5E4E2;
+
+}
+.alcatraztext{
+  color: black
+}
+.location2ig{
+  height: 500px;
+  length: 500px;
+}
+.gatetext{
+  background-color: white;
+}
+.loctext {
+  background-color: #849ed2;
+ border-radius: 10px;
+}
+
+
+.name1{
+  display: flex;
+  justify-content: center;
+}
+.palaceoffineartsimg1{
+  width:550px;
+  height:500px;
+}
+.palaceoffineartstext{
+  color:black
+}
+
+.townie{
+  width: 500px;
+  height: 350px;
+
+}
+
+.iframe {
+  justify-content: center;
+  display: flex;
+}
+.loctext{
+  display: flex;
+}
+
+.maptext{
+  color: white;
+  border: 5px dashed white;
+   width: fit-content;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
 }

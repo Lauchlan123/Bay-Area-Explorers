@@ -1,0 +1,20 @@
+h1 {
+font-size: 40px;
+  font-family: "Apple Chancery", cursive;
+  color: green;
+  text-align: center;
+}
+h2 {
+   font-size: 25px;
+  font-family: "Apple Chancery", cursive;
+  color: #3b6bb8;
+}
+p {
+   font-size: 25px;
+  font-family: "Apple Chancery", cursive;
+  color: #3b6bb8;
+}
+.body {
+  background-image: url("https://www.visittheusa.com/sites/default/files/styles/16_9_1280x720/public/2016-10/Getty_591648687_Brand_City_SanFrancisco_Hero_FinalCrop.jpg?itok=NqcWiJZn");
+  background-size: cover;
+}

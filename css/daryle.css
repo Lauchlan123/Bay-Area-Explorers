@@ -1,0 +1,17 @@
+button {
+  color:cadetblue;
+  background-color:darkslateblue;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size:20 ;
+  padding: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 10px;
+}
+
+body {
+  background-image:url("https://i.imgur.com/FInClMV.png");
+ background-size: cover;
+
+      
+}
